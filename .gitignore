@@ -1,0 +1,6 @@
+dist/
+accountservice/vendor/
+.env
+build/
+docs/
+coverage.txt
